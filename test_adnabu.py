@@ -77,7 +77,7 @@ class AdNabuAutomation:
         self.driver.quit()
 
 
-# PYTEST TEST CASE
+#PYTEST TEST CASE
 def test_search_add_cart():
     test = AdNabuAutomation()
     test.open_store()

@@ -74,17 +74,8 @@ span.xpassed,
   margin-right: 3px;
 }
 
-/******************************
- * RESULTS TABLE
- *
- * 1. Table Layout
- * 2. Extra
- * 3. Sorting items
- *
- ******************************/
-/*------------------
- * 1. Table Layout
- *------------------*/
+
+
 #results-table {
   border: 1px solid #e6e6e6;
   color: #999;
@@ -311,7 +302,7 @@ div.media {
 }
 .filters button:hover,
 .collapse button:hover {
-  color: #ccc;
+  color: #dbc4c4;
 }
 
 .filter__label {

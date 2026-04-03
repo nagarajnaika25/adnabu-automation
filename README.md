@@ -1,5 +1,5 @@
 # adnabu-automation
-Selenium automation framework using Python and pytest to validate product search and add-to-cart functionality on a Shopify store, with HTML reporting.
+Selenium automation framework using Python and pytest to validate product search and add-to-cart functionality on a Shopify store, with the HTML reporting.
 
 # AdNabu Automation Assignment
 
@@ -10,7 +10,7 @@ Automate product search and add-to-cart functionality on Shopify store.
 
 ## Tech Stack
 - Python
-- Selenium WebDriver
+- Selenium  WebDriver
 - Pytest
 - Pytest-HTML
 
