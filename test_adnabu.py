@@ -78,7 +78,7 @@ class AdNabuAutomation:
 
 
 #PYTEST TEST CASE
-def test_search_add_cart():
+def test_search_add_cart():  
     test = AdNabuAutomation()
     test.open_store()
     test.search_product("Snowboard")
